@@ -47,12 +47,12 @@ A link aggregator to use as an online business card
 </br>
 </br>
 
-## 🔖 Layout
+<!-- ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](#).
 
 </br>
-</br>
+</br> -->
 
 ## 📝 Licença
 
