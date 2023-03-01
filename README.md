@@ -2,8 +2,8 @@
 <h1 align="center"> My first project </h1>
 </br>
 <p align="center">
-Developed with mentorship from <a href="https://github.com/maykbrito">@maykbrito</a> of RocketSeat <br/>
-<a href="rocketseat.com.br">Click here to know more about RocketSeat</a>
+<!-- Developed with mentorship from <a href="https://github.com/maykbrito">@maykbrito</a> of RocketSeat <br/> -->
+<!-- <a href="rocketseat.com.br">Click here to know more about RocketSeat</a> -->
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Techs used to build this project:
 
 A link aggregator to use as an online business card
 
-- [Acesse o projeto finalizado, online](https://somentepio.github.io/First-Project/)
+- [Acesse o projeto finalizado, online](https://somentepio.github.io/DevLinks/)
 
 </br>
 </br>
