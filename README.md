@@ -42,7 +42,7 @@ Techs used to build this project:
 
 A link aggregator to use as an online business card
 
-- [Acesse o projeto finalizado, online](https://somentepio.github.io/DevLinks/)
+- [Acess the final project online](https://somentepio.github.io/DevLinks/)
 
 </br>
 </br>
@@ -56,7 +56,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](#).
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT.
+MIT licence.
 
 ---
 
