@@ -54,10 +54,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](#).
 </br>
 </br> -->
 
-## 📝 Licença
-
-MIT licence.
-
 ---
 
 Developed with ♥ by Pio
