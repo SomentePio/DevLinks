@@ -1,5 +1,5 @@
 </br>
-<h1 align="center"> My first project </h1>
+<h1 align="center"> Link aggregator </h1>
 </br>
 <p align="center">
 <!-- Developed with mentorship from <a href="https://github.com/maykbrito">@maykbrito</a> of RocketSeat <br/> -->
